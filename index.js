@@ -3,7 +3,7 @@ function happyHolidays() {
   return "Happy holidays!"
 }
 
-var name="Danie"
+var name="You"
 var days= 20
 var holiday="Mother's Day"
 
