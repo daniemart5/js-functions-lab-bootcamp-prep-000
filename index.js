@@ -5,7 +5,7 @@ function happyHolidays() {
 
 var name="you"
 var days= 20
-var holiday="Happy Independence Day"
+var holiday="Independence Day"
 
 function happyHolidaysTo(){
   return `Happy holidays, ${name}!`
