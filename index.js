@@ -5,7 +5,6 @@ function happyHolidays() {
 
 var name="you"
 var days= 20
-var holiday= "Christmas "
 
 function happyHolidaysTo(){
   return `Happy holidays, ${name}!`
